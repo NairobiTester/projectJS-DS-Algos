@@ -1,2 +1,2 @@
 # projectJS-Raw
-Vanilla JavaScript plus Data Structures and Algorithms in JavaScript
+Vanilla JavaScript including Data Structures and Algorithms in JavaScript
